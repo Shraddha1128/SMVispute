@@ -1,5 +1,5 @@
  function avg(s1, s2, s3) {
-            let average = (s1 + s2 + s3) / 3;
+            let average = (s1 + s2 + s3) / 4;
             return average >= 35 ? "Pass" : "Fail";
         }
     
